@@ -258,13 +258,8 @@ button{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
 }
-.ourSquare{
-    border: 1px solid yellow;
-    height: 50px;
-    width: 50px;
-    background-color: yellow;
+.Squares{
     margin-bottom: 30px;
-    margin-top: 30px;
 }
 
 .Herosection2{
